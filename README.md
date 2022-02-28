@@ -32,6 +32,9 @@ Para las prácticas de esta semana se tendrá el siguiente caso y a raíz de eso
 ----
 ## Buyer persona
 
+<object type="application/pdf" data="assets/buyer-persona.pdf" width="100%" height="100%">
+</object>
+
 ----
 ## Público objetivo
 
