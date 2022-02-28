@@ -42,5 +42,17 @@ Para las prácticas de esta semana se tendrá el siguiente caso y a raíz de eso
 ----
 ## User Experience - Wireframe
 
+A continuación se muestra el _wireframe_ de la página web. Se muestran las páginas más importantes del sitio web: página de inicio, página con el formulario de denuncia, página de inicio de sesión y página de proceso de pago.
+
+![Página de inicio](./assets/wireframe/Wireframe1.svg)
+
+![Formulario de denuncia](./assets/wireframe/Wireframe2.svg)
+
+![Página de inicio de sesión](./assets/wireframe/Wireframe3.svg)
+
+![Página de proceso de pago](./assets/wireframe/Wireframe4.svg)
+
 ----
 ## User Interface
+
+----
