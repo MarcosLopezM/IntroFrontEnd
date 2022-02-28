@@ -32,7 +32,7 @@ Para las prácticas de esta semana se tendrá el siguiente caso y a raíz de eso
 ----
 ## Buyer persona
 
-![buyer persona](assets/buyer-persona.jpg)
+![buyer persona](./assets/BuyerPersona/buyer-persona.jpg)
 
 ----
 ## Público objetivo
