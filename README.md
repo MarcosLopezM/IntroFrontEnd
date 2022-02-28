@@ -44,6 +44,8 @@ Para las prácticas de esta semana se tendrá el siguiente caso y a raíz de eso
 
 A continuación se muestra el _wireframe_ de la página web. Se muestran las páginas más importantes del sitio web: página de inicio, página con el formulario de denuncia, página de inicio de sesión y página de proceso de pago.
 
+Notemos además que los colores del sitio web cumplen con los requerimientos del cliente.
+
 ![Página de inicio](./assets/wireframe/Wireframe1.svg)
 
 ![Formulario de denuncia](./assets/wireframe/Wireframe2.svg)
