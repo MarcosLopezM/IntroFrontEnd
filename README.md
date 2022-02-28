@@ -37,6 +37,8 @@ Para las prácticas de esta semana se tendrá el siguiente caso y a raíz de eso
 ----
 ## Público objetivo
 
+![Público objetivo](assets/publico_objetivo.jpg)
+
 ----
 ## User Experience - Wireframe
 
