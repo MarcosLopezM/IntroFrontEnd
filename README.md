@@ -57,4 +57,9 @@ Notemos además que los colores del sitio web cumplen con los requerimientos del
 ----
 ## User Interface
 
+Para demostrar que el sitio web es responsivo, este apartado de _User Interface (UI)_ se mostrará para un teléfono móvil.
+
+![Página de inicio](./assets/UI/UI1.svg)
+![Página de inicio de sesión](./assets/UI/UI2.svg)
+
 ----
