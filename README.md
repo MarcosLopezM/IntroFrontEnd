@@ -59,7 +59,7 @@ Notemos además que los colores del sitio web cumplen con los requerimientos del
 
 Para demostrar que el sitio web es responsivo, este apartado de _User Interface (UI)_ se mostrará para un teléfono móvil.
 
-<img src="./assets/UI/UI1.svg" alt="Página de inicio" width="35%" height="100%"/>
-<img src="./assets/UI/UI2.svg" alt="Página de inicio de sesión" width="35%" height="100%"/>
+![Página de inicio](./assets/UI/UI1.svg)
+![Página de inicio de sesión](./assets/UI/UI2.svg)
 
 ----
